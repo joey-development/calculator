@@ -11,4 +11,4 @@ main file: Calculator.py
 
 ---------------------Thanks----------------------
 
-Thank you for downloading this file :)
+Thank you :)
