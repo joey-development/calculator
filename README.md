@@ -3,10 +3,10 @@ main file: Calculator.py
 
 --------------------Operators--------------------
 
-For +: +
-For -: -
-For X: *
-For	÷: /
+  For +: +
+    For -: -
+      For X: *
+        For	÷: /
 
 
 ---------------------Thanks----------------------
